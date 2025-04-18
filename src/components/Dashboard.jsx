@@ -24,7 +24,7 @@ function Dashboard() {
 
          <main>
             <section className="max-w-2xl mx-auto p-6 rounded-2xl">
-               <div className="flex gap-3 mb-10">
+               <div className="flex gap-3 mb-10 max-sm:flex-col">
                   <NewTask />
                </div>
                <TaskItem />
