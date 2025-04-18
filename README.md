@@ -1,12 +1,21 @@
-# React + Vite
+# 📝 Task System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple task management system built with **ReactJS** and **Tailwind CSS**, using **Context API** for state management and **localStorage** for persistence.
 
-Currently, two official plugins are available:
+## 🔧 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ReactJS  
+- Tailwind CSS  
+- Context API  
+- localStorage  
+- Vite (development environment)  
+- Git & GitHub (version control)  
+- Vercel (deployment)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new tasks  
+- Edit existing tasks  
+- Mark tasks as completed  
+- Delete tasks  
+- Responsive interface with a modern, dark theme
